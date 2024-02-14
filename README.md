@@ -1,4 +1,5 @@
 **Masterclass în C# 20: Explorarea Codului Sursă**
+
 ![technology the   HUB](https://github.com/GrupulVerdeIT/Masterclass-n-C-20-Explorarea-Codului-Surs-/assets/110493446/b0b76256-c2c2-4860-afc6-5cf61d537a85) 
 
 Bine ați venit la Masterclass-ul nostru în C# 20, unde veți explora adâncimile și rafinamentele limbajului de programare C#. Acest curs este conceput pentru programatori intermediari și avansați care doresc să-și îmbunătățească abilitățile de codare în C# și să învețe cele mai recente caracteristici și practici din versiunea 20 a limbajului.
